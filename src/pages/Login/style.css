@@ -1,0 +1,18 @@
+.link {
+    display: flex;
+    align-items: center;
+    color: #41414d;
+    font-size: 18px;
+    text-decoration: none;
+    font-weight: 500;
+    transition: opacity 0.2s;
+    border-radius: 8px;
+    padding: 10px;
+    margin:  auto;
+
+
+}
+
+.link svg {
+    margin-right: 8px;
+}

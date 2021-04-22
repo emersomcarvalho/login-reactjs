@@ -1,0 +1,60 @@
+.gl {
+  border: 0;
+border-radius: 5px;
+border: none;
+width: 100%;
+height: 42px;
+padding: 0 20px;
+font-size: 16px;
+font-weight: bold;
+background: #341783;
+color: rgb(14, 197, 151);
+cursor: pointer;
+
+}
+
+.link {
+  display: flex;
+  align-items: center;
+  color: #41414d;
+  font-size: 18px;
+  text-decoration: none;
+  font-weight: 500;
+  transition: opacity 0.2s;
+  border-radius: 8px;
+  padding: 10px;
+  margin:  auto;
+
+}
+.link svg {
+  margin-right: 8px;
+}
+
+
+
+.git {
+  padding: 5px;
+  font-size: 16px;
+  text-decoration: none;
+  color: rgb(13, 14, 13);
+
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+
+.git svg {
+  margin-right: 8px;
+
+}
+.stack{
+  font-size: 14px;
+  line-height: 18px;
+  text-align: center;
+  font-style: italic;
+  color: #341783;
+  
+}
+
+  
+      

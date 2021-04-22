@@ -1,0 +1,14 @@
+import axios  from "axios";
+
+
+const api = axios.create({
+baseURL: 'https://backendlogin.herokuapp.com'
+});
+
+
+
+
+export default api;
+
+
+
