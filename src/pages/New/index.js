@@ -10,8 +10,6 @@ import { Link } from 'react-router-dom';
 const images = [
     '//conteudo.imguol.com.br/c/entretenimento/1d/2019/11/20/street-fighter-v-1574281893732_v2_900x506.jpg',
     '//reviewbox.com.br/wp-content/uploads/2019/11/0-Jogos-PS4-Nymbursky-687811-scaled.jpg',
-  '//images4.alphacoders.com/844/thumb-1920-844967.jpg',
-  'https://www.wallpapermaiden.com/image/2019/01/16/tom-clancy-s-the-division-2-people-artwork-landscape-29224.jpeg',
   '//cdn3.dualshockers.com/wp-content/uploads/2019/06/Call-of-Duty-Modern-Warfare-1.jpg',
   '//psu.com/app/uploads/2019/07/CallofDutyModernWarfare_7.png',
   '//image-cdn.essentiallysports.com/wp-content/uploads/20200403160813/call_of_duty_modern_warfare_multiplayer_beta.jpeg',
@@ -68,12 +66,11 @@ const images = [
             </Link>
         
         <a className='git' href="https://github.com/emersomcarvalho">
-            <FiGithub size={18} color="#341783"/>
-             Meu GitHub </a>
+            <FiGithub size={18} color="#341783"/> Meu GitHub </a>
             <br/>
             <br/>
            <p className='stack'>
-        <strong>Stack's: Node.js + React.js + Autenticação + MongoDB </strong>
+        <strong>Stack's: Node.js + React.js + Autenticação + MongoDB Atlas </strong>
       </p>    
        
       </div>
