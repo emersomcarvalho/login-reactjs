@@ -1,12 +1,7 @@
 import React, { Component } from 'react';
-
 import Lightbox from 'react-image-lightbox';
-
-
 import 'react-image-lightbox/style.css'; 
-
 import {FiPower, FiGithub } from 'react-icons/fi'
-
 
 import './style.css';
 import { Link } from 'react-router-dom';
@@ -41,7 +36,7 @@ const images = [
     return (
       <>
       <p>
-        Entre na galeria e viaje nesse mundo você também! :)
+        Entre na galeria e viaje você também! :)
       </p>
       <div>
         <button className= "gl" type="button" onClick={() => this.setState({ isOpen: true })}>

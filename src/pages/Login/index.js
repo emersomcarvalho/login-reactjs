@@ -45,7 +45,7 @@ import api from '../../services/api';
     return (
    <>
       <p>
-        Entre no <strong> portfólio teste</strong> do <strong>  Emersom</strong>. *Projeto de autenticação com jwt *        
+        Entre no <strong> portfólio </strong> do <strong>  Emersom Carvalho.</strong> *Projeto de teste com jwt      
         </p>
 
         <form onSubmit={this.handleSubmit}>
